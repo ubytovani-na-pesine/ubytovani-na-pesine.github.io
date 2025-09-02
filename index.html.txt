@@ -1,0 +1,235 @@
+<!DOCTYPE HTML>
+<!--
+	Story by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Story by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+
+				<!-- One -->
+					<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<h1>Klidné  ubytování s centrem města na dosah, parkování zdarma</h1>
+<p class="major">
+  Samostatné apartmá v přízemí rodinného domu v Dolních Chabrech, malebné městské části s výbornou dostupností do centra.
+  Tento příjemný jednopokojový byt s kuchyní a koupelnou je ideální pro všechny, kdo ocení pohodu a soukromí a zároveň snadnou dostupnost do centra města.<br><br>
+  Parkování na pozemku nebo před domem je zdarma. Zastávka za rohem. Metro 8 min, centrum 20 min.<br><br>
+  Několik restaurací, kavárna, cukrárna a supermarket Billa v docházkové vzdálenosti.
+</p>
+							<ul class="actions stacked">
+								<li><a href="#contact" class="button big wide smooth-scroll-middle">Rezervace</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>Prostorný pokoj</h2>
+							<p>Na široké manželské posteli a rozkládací pohovce pro dva se pohodlně vyspí až čtyři lidé.</p>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Moderní kuchyň</h2>
+							<p>Plně vybavená kuchyň s jídelním stolem. K dispozici je navíc Wi-fi, pračka a lednice s mrazáčkem.</p>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Four -->
+					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
+						<div class="content">
+							<h2>Zelená oáza</h2>
+							<p>Přímo z pokoje přístup na zahradu s malým posezením.</p>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="" />
+						</div>
+					</section>
+
+<!-- Five -->
+<section class="wrapper style1 align-center">
+  <div class="inner">
+    <h2>Ceník</h2>
+    <p>
+      dvě osoby/noc: Ne–Čt 1650 Kč<br>
+      Pá–So 1800 Kč<br>
+      Děti do 3 let zdarma<br>
+	Pobyty od 1 týdne sleva 10 %<br>
+      Úklid: 200 Kč<br>
+      Přistýlka osoba/noc: 250 Kč
+    </p>
+  </div>
+</section>
+						</div>
+
+<!-- Gallery -->
+<div class="gallery style2 medium lightbox onscroll-fade-in">
+	<article>
+		<a href="images/gallery/fulls/01.jpg" class="image">
+			<img src="images/gallery/thumbs/01.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/02.jpg" class="image">
+			<img src="images/gallery/thumbs/02.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/03.jpg" class="image">
+			<img src="images/gallery/thumbs/03.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/04.jpg" class="image">
+			<img src="images/gallery/thumbs/04.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/05.jpg" class="image">
+			<img src="images/gallery/thumbs/05.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/06.jpg" class="image">
+			<img src="images/gallery/thumbs/06.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+	<article>
+		<a href="images/gallery/fulls/07.jpg" class="image">
+			<img src="images/gallery/thumbs/07.jpg" alt="" />
+		</a>
+		<div class="caption">
+			<ul class="actions fixed">
+				<li><span class="button small">Details</span></li>
+			</ul>
+		</div>
+	</article>
+</div>
+					</section>
+<!-- Calendar Section -->
+<section class="wrapper style1 align-center">
+  <div class="inner">
+    <h2>Dostupné termíny</h2>
+    <iframe src="https://calendar.google.com/calendar/embed?src=2bdb463832a0a888adeda3bafb1fe99c08d8ba1fe439fb51e71bcbda53a27106%40group.calendar.google.com&ctz=Europe%2FBerlin"
+     style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+  </div>
+</section>
+				<!-- Contact Form Section -->
+<section class="wrapper style1 align-center" id="contact">
+  <div class="inner medium">
+    <h2>Rezervace</h2>
+    <form method="POST" action="https://formsubmit.co/kubeska@yahoo.com">
+      <input type="hidden" name="_next" value="https://klaroton.github.io/shortterm-rental-prague/#thanks">
+      <input type="hidden" name="_captcha" value="false">
+
+      <div class="fields">
+        <div class="field half">
+          <label for="name">Jméno</label>
+          <input type="text" name="name" id="name" required />
+        </div>
+        <div class="field half">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" required />
+        </div>
+        <div class="field">
+          <label for="message">Zpráva</label>
+          <textarea name="message" id="message" rows="6" required></textarea>
+        </div>
+      </div>
+
+      <ul class="actions special">
+        <li><input type="submit" value="Odeslat zprávu" /></li>
+      </ul>
+    </form>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="wrapper style1 align-center">
+    <div class="inner">
+        <p>&copy; Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+    </div>
+</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
